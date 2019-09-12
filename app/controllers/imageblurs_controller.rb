@@ -2,6 +2,7 @@ class ImageblursController < ApplicationController
   def index
   end
 end
+
 class Image
 
   def initialize(fill_image)
